@@ -1,0 +1,565 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373075,
+                    51.339695
+                ]
+            },
+            "properties": {
+                "Institution": "German Centre of Integrative Biodiversity Research (iDiv) / Martin Luther University",
+                "City": "Leipzig",
+                "Country": "Germany",
+                "Contact": "Henrique Pereira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.407394,
+                    39.904202
+                ]
+            },
+            "properties": {
+                "Institution": "Beijing Normal University",
+                "City": "Beijing",
+                "Country": "China",
+                "Contact": "Chengfeng Yang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.724524,
+                    45.18853
+                ]
+            },
+            "properties": {
+                "Institution": "National Centre for Scientific Research (CNRS) / Universty Grenoble Alpes ",
+                "City": "Grenoble",
+                "Country": "France",
+                "Contact": "Wilfried Thuiller"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.173404,
+                    41.385063
+                ]
+            },
+            "properties": {
+                "Institution": "Centre for Ecological Research and Forestry Applications (CREAF)",
+                "City": "Barcelona",
+                "Country": "Spain",
+                "Contact": "Lluis Brotons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.130005,
+                    -35.280937
+                ]
+            },
+            "properties": {
+                "Institution": "Commonwealth Scientific and Industrial Research Organisation",
+                "City": "Canberra",
+                "Country": "Australia",
+                "Contact": "Simon Ferrier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.076444,
+                    36.083472
+                ]
+            },
+            "properties": {
+                "Institution": "Forest Research and Management Organisation (FRMO)",
+                "City": "Tsukuba",
+                "Country": "Japan",
+                "Contact": "Tomoko Hasegawa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -74.072222,
+                    4.711111
+                ]
+            },
+            "properties": {
+                "Institution": "Research Institute of Biological Resources Alexander von Humboldt",
+                "City": "Bogot\u00e1",
+                "Country": "Colombia",
+                "Contact": "Ma. Cecilia Londo\u00f1o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35,
+                    48.066667
+                ]
+            },
+            "properties": {
+                "Institution": "International Institute for Applied Systems Analysis",
+                "City": "Laxenburg",
+                "Country": "Austria",
+                "Contact": "Martin Jung, Piero Visconti, Louise O'Connor, David Leclere, Yazhen Wu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.205556,
+                    -22.911111
+                ]
+            },
+            "properties": {
+                "Institution": "International Institute for Sustainability",
+                "City": "Rio de Janeiro",
+                "Country": "Brazil",
+                "Contact": "Bernardo Strassburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    139.58625,
+                    35.272056
+                ]
+            },
+            "properties": {
+                "Institution": "IPBES Technical Support Unit",
+                "City": "Hayama",
+                "Country": "Japan",
+                "Contact": "Carolyn Lundquist, Shizuka Hashimoto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841389,
+                    45.758889
+                ]
+            },
+            "properties": {
+                "Institution": "Research Institure for Development (IRD)",
+                "City": "Lyon",
+                "Country": "France",
+                "Contact": "Olivier Maury"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4043,
+                    49.014
+                ]
+            },
+            "properties": {
+                "Institution": "Karlsruhe Institute of Technology",
+                "City": "Karlsruhe",
+                "Country": "Germany",
+                "Contact": "Almut Arneth, Mark Rounsevell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.504722,
+                    59.380556
+                ]
+            },
+            "properties": {
+                "Institution": "Karlstad University",
+                "City": "Karlstad",
+                "Country": "Sweden",
+                "Contact": "Felicia Akinyemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.199164,
+                    55.708313
+                ]
+            },
+            "properties": {
+                "Institution": "Lund University",
+                "City": "Lund",
+                "Country": "Sweden",
+                "Contact": "Anne Marie Eckes-Shepard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -52.711944,
+                    47.561389
+                ]
+            },
+            "properties": {
+                "Institution": "Memorial University of Newfoundland",
+                "City": "St. John Newfoundland",
+                "Country": "Canada",
+                "Contact": "Tyler Eddy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.778889,
+                    32.060833
+                ]
+            },
+            "properties": {
+                "Institution": "Nanjing Institute of Environmental Sciences (NIES)",
+                "City": "Nanjing",
+                "Country": "China",
+                "Contact": "Dandan Yu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.833333,
+                    1.283333
+                ]
+            },
+            "properties": {
+                "Institution": "Nangyang Technological University (NTU)",
+                "City": "Singapore",
+                "Country": "Singapore",
+                "Contact": "Perrine Hamel, Fairul Shaikh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1275,
+                    51.507222
+                ]
+            },
+            "properties": {
+                "Institution": "Natural History Museum, London (NHM)",
+                "City": "London",
+                "Country": "United Kingdom",
+                "Contact": "Andy Purvis, Adriana de Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    135.502111,
+                    34.69375
+                ]
+            },
+            "properties": {
+                "Institution": "Osaka University",
+                "City": "Osaka",
+                "Country": "Japan",
+                "Contact": "Chihiro Haga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31,
+                    52.08
+                ]
+            },
+            "properties": {
+                "Institution": "Netherlands Environmental Assessment Agency (PBL)",
+                "City": "The Hague",
+                "Country": "Netherlands",
+                "Contact": "Rob Alkemade, Aafke Schipper, Alexandra Marques, Elke Stehfest, Sana Okayasu, Machteld Schoolenberg, Detlef van Vuuren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.061389,
+                    52.395833
+                ]
+            },
+            "properties": {
+                "Institution": "Potsdam Institute for Climate Impact Research (PIK)",
+                "City": "Potsdam",
+                "Country": "Germany",
+                "Contact": "Alex Popp, Patrick von Jeetze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.482778,
+                    41.893056
+                ]
+            },
+            "properties": {
+                "Institution": "Sapienza University (SUR)",
+                "City": "Rome",
+                "Country": "Italy",
+                "Contact": "Carlo Rondinini, Claudia Fornarini, Alesssandra D'Alessio, Nina Santostasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.05,
+                    59.325
+                ]
+            },
+            "properties": {
+                "Institution": "Stockholm Resilience Centre",
+                "City": "Stockholm",
+                "Country": "Sweden",
+                "Contact": "Garry Peterson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.125,
+                    51.599
+                ]
+            },
+            "properties": {
+                "Institution": "UK Centre for Ecology & Hydrology",
+                "City": "Wallingford",
+                "Country": "United Kingdom",
+                "Contact": "Paula Harrison, Hyejin Kim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1225,
+                    52.205
+                ]
+            },
+            "properties": {
+                "Institution": "UN Environment Programme World Conservation Monitoring Centre",
+                "City": "Cambridge",
+                "Country": "United Kingdom",
+                "Contact": "Samantha Hill, Calum Maney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.941944,
+                    -19.928056
+                ]
+            },
+            "properties": {
+                "Institution": "Federal Univeristy of Minas Gerais",
+                "City": "Belo Horizonte",
+                "Country": "Brazil",
+                "Contact": "Britaldo Silveira Diniz Filho, Ubirajara Oliveira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883333,
+                    52.366667
+                ]
+            },
+            "properties": {
+                "Institution": "University of Amsterdam",
+                "City": "Amsterdam",
+                "Country": "Netherlands",
+                "Contact": "Peter Verburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    174.765278,
+                    -36.849167
+                ]
+            },
+            "properties": {
+                "Institution": "University of Auckland",
+                "City": "Auckland",
+                "Country": "New Zealand",
+                "Contact": "Carolyn Lundquist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.113889,
+                    49.260833
+                ]
+            },
+            "properties": {
+                "Institution": "University of British Columbia",
+                "City": "Vancouver",
+                "Country": "Canada",
+                "Contact": "William Cheung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.423889,
+                    -33.925278
+                ]
+            },
+            "properties": {
+                "Institution": "University of Cape Town",
+                "City": "Cape Town",
+                "Country": "South Africa",
+                "Contact": "Kelly Ortega Cisneros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.183333,
+                    55.95
+                ]
+            },
+            "properties": {
+                "Institution": "University of Edinburgh",
+                "City": "Edinburgh",
+                "Country": "United Kingdom",
+                "Contact": "Peter Alexander"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.269167,
+                    44.981944
+                ]
+            },
+            "properties": {
+                "Institution": "University of Minnesota",
+                "City": "Minneapolis",
+                "Country": "United States",
+                "Contact": "Becky Chaplin-Kramer, Justin Johnson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.325,
+                    -42.880556
+                ]
+            },
+            "properties": {
+                "Institution": "University of Tasmania",
+                "City": "Horbart",
+                "Country": "Australia",
+                "Contact": "Julia Blanchard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.066667,
+                    -26.2
+                ]
+            },
+            "properties": {
+                "Institution": "University of Witswatersrand",
+                "City": "Johannesburg",
+                "Country": "South Africa",
+                "Contact": "Laura Pereira, Sally Archibald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.083333,
+                    53.95
+                ]
+            },
+            "properties": {
+                "Institution": "University of York",
+                "City": "York",
+                "Country": "United Kingdom",
+                "Contact": "In\u00eas Martins"
+            }
+        }
+    ]
+}
