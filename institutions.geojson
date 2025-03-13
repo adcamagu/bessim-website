@@ -14,7 +14,16 @@
                 "Institution": "German Centre of Integrative Biodiversity Research (iDiv) / Martin Luther University",
                 "City": "Leipzig",
                 "Country": "Germany",
-                "Contact": "Henrique Pereira"
+                "Contact": [
+                    "Henrique Pereira",
+                    "Nestor Fernández",
+                    "Heather Cohen",
+                    "Magali Weissgerber",
+                    "Gavin Stark",
+                    "Laura Quintero",
+                    "Andrés Mármol-Guijarro"
+                ],
+
             }
         },
         {
